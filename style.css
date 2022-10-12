@@ -1,11 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
+
 #btn-padrao{
-    border-radius: 18px;
+    border-radius: 25px;
     padding: 8px;
-    background-color: blue;
-    width: 150px;
+    background-color: rgb(14, 14, 177);
+    width: 130px;
+    font-weight: 700;
+    border:none;
+    padding: 15px;
+
 }
 
 #navbarNav{
-    margin-left: 400px;
+    margin-left: 350px;
     
+}
+#navbarNav a{
+    color: rgb(21, 21, 75);
+    font-weight: 500 ;
+    margin-right: 5px
+    
+}
+
+#best-choice{
+    width: 60%;
+}
+
+#celular{
+width: 75%;
+margin-left: 70px;
+}
+
+#h1-pag-1{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(16, 16, 95);
+
+}
+#conteudo-1{
+    margin-top: 120px;
+    margin-left: 80px;
 }
