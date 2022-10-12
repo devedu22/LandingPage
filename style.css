@@ -3,11 +3,12 @@
 #btn-padrao{
     border-radius: 25px;
     padding: 8px;
-    background-color: rgb(14, 14, 177);
+    background-color: rgb(2, 2, 255);
     width: 130px;
     font-weight: 700;
     border:none;
     padding: 15px;
+    margin-top: 20PX;
 
 }
 
@@ -27,16 +28,32 @@
 }
 
 #celular{
-width: 75%;
+width: 65%;
 margin-left: 70px;
 }
 
 #h1-pag-1{
     font-family: 'Poppins', sans-serif;
     color: rgb(16, 16, 95);
+    margin-top: 10px;
+    font-size: 40px;
+}
 
+#h6-pag-1{
+margin-top: 10px;
 }
 #conteudo-1{
-    margin-top: 120px;
-    margin-left: 80px;
+    margin-top: 150px;
+    margin-left: 85px;
+}
+#img-cidade{
+    margin-top: -150px;
+    width: 100%
+}
+#link-video-demo {
+    margin-top: 500px;
+    text-decoration-line: none;
+}
+#conteudo-pagina-2{
+    margin-top: 100px;
 }
