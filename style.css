@@ -54,6 +54,10 @@ margin-top: 10px;
     margin-top: 500px;
     text-decoration-line: none;
 }
-#conteudo-pagina-2{
+#conteudo-pagina-2,#conteudo-pagina-3 {
     margin-top: 100px;
+}
+#servicos{
+    margin-top: 30px;
+    margin-top: 60px;
 }
