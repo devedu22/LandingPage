@@ -8,7 +8,7 @@
     font-weight: 700;
     border:none;
     padding: 15px;
-    margin-top: 20PX;
+    margin-top: 5PX;
 
 }
 
@@ -54,10 +54,37 @@ margin-top: 10px;
     margin-top: 500px;
     text-decoration-line: none;
 }
-#conteudo-pagina-2,#conteudo-pagina-3 {
+#conteudo-pagina-2,#conteudo-pagina-3,#conteudo-pagina-5 {
     margin-top: 100px;
 }
 #servicos{
     margin-top: 30px;
     margin-top: 60px;
+}
+#servicos h5{
+   margin-bottom: 10px;
+}
+#servicos img{
+    margin-bottom: 20px;
+ }
+
+ #conteudo-pagina-5{
+background-color: rgba(221, 231, 231, 0.945);
+ }
+ #conteudo-pagina-5-emergency{
+    margin-top: 50px;
+    margin-left: 85px;
+ }
+
+ #h3-pag-5{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(16, 16, 95);
+    margin-top: 10px;
+    font-size: 20px;
+}
+#h1-pag-5{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(16, 16, 95);
+    margin-top: 60px;
+    font-size: 40px;
 }
