@@ -80,11 +80,15 @@ background-color: rgba(221, 231, 231, 0.945);
     font-family: 'Poppins', sans-serif;
     color: rgb(16, 16, 95);
     margin-top: 10px;
-    font-size: 20px;
+    font-size: 16px;
 }
 #h1-pag-5{
     font-family: 'Poppins', sans-serif;
     color: rgb(16, 16, 95);
     margin-top: 60px;
     font-size: 40px;
+}
+#h6-pag-5{
+    margin-bottom: 60px;
+
 }
