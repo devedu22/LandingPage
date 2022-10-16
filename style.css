@@ -46,10 +46,7 @@ margin-top: 10px;
     margin-top: 150px;
     margin-left: 85px;
 }
-#img-cidade{
-    margin-top: -150px;
-    width: 100%
-}
+
 #link-video-demo {
     margin-top: 500px;
     text-decoration-line: none;
@@ -91,4 +88,11 @@ background-color: rgba(221, 231, 231, 0.945);
 #h6-pag-5{
     margin-bottom: 60px;
 
+}
+
+#conteudo-6{
+    margin-top: 200px;
+}
+#img-rodape{
+    width: 900px;
 }
